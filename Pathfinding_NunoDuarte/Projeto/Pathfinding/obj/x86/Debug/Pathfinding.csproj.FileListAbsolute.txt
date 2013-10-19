@@ -1,0 +1,33 @@
+c:\users\juliana\documents\visual studio 2010\Projects\Pathfinding\Pathfinding\Pathfinding\bin\x86\Debug\Pathfinding.exe
+c:\users\juliana\documents\visual studio 2010\Projects\Pathfinding\Pathfinding\Pathfinding\bin\x86\Debug\Pathfinding.pdb
+c:\users\juliana\documents\visual studio 2010\Projects\Pathfinding\Pathfinding\Pathfinding\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\juliana\documents\visual studio 2010\Projects\Pathfinding\Pathfinding\Pathfinding\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\juliana\documents\visual studio 2010\Projects\Pathfinding\Pathfinding\Pathfinding\obj\x86\Debug\Pathfinding.exe
+c:\users\juliana\documents\visual studio 2010\Projects\Pathfinding\Pathfinding\Pathfinding\obj\x86\Debug\Pathfinding.pdb
+c:\users\juliana\documents\visual studio 2010\Projects\Pathfinding\Pathfinding\Pathfinding\bin\x86\Debug\Content\Texture\white.xnb
+C:\Fabio\NAVE\2013\00_AULAS\Aulas-3003-PJ2\3oBimestre\aula21\Pathfinding\Pathfinding\Pathfinding\bin\x86\Debug\Content\Texture\white.xnb
+C:\Fabio\NAVE\2013\00_AULAS\Aulas-3003-PJ2\3oBimestre\aula21\Pathfinding\Pathfinding\Pathfinding\bin\x86\Debug\Pathfinding.exe
+C:\Fabio\NAVE\2013\00_AULAS\Aulas-3003-PJ2\3oBimestre\aula21\Pathfinding\Pathfinding\Pathfinding\bin\x86\Debug\Pathfinding.pdb
+C:\Fabio\NAVE\2013\00_AULAS\Aulas-3003-PJ2\3oBimestre\aula21\Pathfinding\Pathfinding\Pathfinding\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Fabio\NAVE\2013\00_AULAS\Aulas-3003-PJ2\3oBimestre\aula21\Pathfinding\Pathfinding\Pathfinding\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Fabio\NAVE\2013\00_AULAS\Aulas-3003-PJ2\3oBimestre\aula21\Pathfinding\Pathfinding\Pathfinding\obj\x86\Debug\Pathfinding.exe
+C:\Fabio\NAVE\2013\00_AULAS\Aulas-3003-PJ2\3oBimestre\aula21\Pathfinding\Pathfinding\Pathfinding\obj\x86\Debug\Pathfinding.pdb
+C:\Users\Nuno\Documents\Pathfinding_Fabio\Pathfinding\Pathfinding\Pathfinding\bin\x86\Debug\Content\Texture\white.xnb
+C:\Users\Nuno\Documents\Pathfinding_Fabio\Pathfinding\Pathfinding\Pathfinding\bin\x86\Debug\Pathfinding.exe
+C:\Users\Nuno\Documents\Pathfinding_Fabio\Pathfinding\Pathfinding\Pathfinding\bin\x86\Debug\Pathfinding.pdb
+C:\Users\Nuno\Documents\Pathfinding_Fabio\Pathfinding\Pathfinding\Pathfinding\obj\x86\Debug\Pathfinding.csprojResolveAssemblyReference.cache
+C:\Users\Nuno\Documents\Pathfinding_Fabio\Pathfinding\Pathfinding\Pathfinding\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Nuno\Documents\Pathfinding_Fabio\Pathfinding\Pathfinding\Pathfinding\obj\x86\Debug\Pathfinding.exe
+C:\Users\Nuno\Documents\Pathfinding_Fabio\Pathfinding\Pathfinding\Pathfinding\obj\x86\Debug\Pathfinding.pdb
+C:\Users\Nuno\Documents\Pathfinding_Fabio\Entrega\Pathfinding\bin\x86\Debug\Pathfinding.exe
+C:\Users\Nuno\Documents\Pathfinding_Fabio\Entrega\Pathfinding\bin\x86\Debug\Pathfinding.pdb
+C:\Users\Nuno\Documents\Pathfinding_Fabio\Entrega\Pathfinding\obj\x86\Debug\Pathfinding.csprojResolveAssemblyReference.cache
+C:\Users\Nuno\Documents\Pathfinding_Fabio\Entrega\Pathfinding\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Nuno\Documents\Pathfinding_Fabio\Entrega\Pathfinding\obj\x86\Debug\Pathfinding.exe
+C:\Users\Nuno\Documents\Pathfinding_Fabio\Entrega\Pathfinding\obj\x86\Debug\Pathfinding.pdb
+C:\Users\Nuno\Documents\Pathfinding_Fabio\Pathfinding_NunoDuarte_3003\Pathfinding\bin\x86\Debug\Pathfinding.exe
+C:\Users\Nuno\Documents\Pathfinding_Fabio\Pathfinding_NunoDuarte_3003\Pathfinding\bin\x86\Debug\Pathfinding.pdb
+C:\Users\Nuno\Documents\Pathfinding_Fabio\Pathfinding_NunoDuarte_3003\Pathfinding\obj\x86\Debug\Pathfinding.csprojResolveAssemblyReference.cache
+C:\Users\Nuno\Documents\Pathfinding_Fabio\Pathfinding_NunoDuarte_3003\Pathfinding\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Nuno\Documents\Pathfinding_Fabio\Pathfinding_NunoDuarte_3003\Pathfinding\obj\x86\Debug\Pathfinding.exe
+C:\Users\Nuno\Documents\Pathfinding_Fabio\Pathfinding_NunoDuarte_3003\Pathfinding\obj\x86\Debug\Pathfinding.pdb
